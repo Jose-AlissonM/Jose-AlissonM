@@ -1,11 +1,11 @@
 ## Olá !!👋 Meu nome é José Alisson
 
 
-<h2 align="left">Sobre mim</h2>
+
 
 ###
 
-<p align="left">Sou Desenvolvedor Back-end cursando Ciências da Computação e possuo conhecimentos em Python e Django para servidores Web, HTML e CSS, além de uma noção em serviços da Oracle Cloud, como Compute Instances e Virtual Network.</p>
+<p align="left">Sou Desenvolvedor Back-end cursando Ciências da Computação e possuo conhecimentos em Python e Django para servidores Web, HTML e CSS, além de uma noção de serviços em nuvem da Oracle Cloud, como Compute Instances e Virtual Network.</p>
 
 ###
 
@@ -46,7 +46,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/jose-alisson-326205273" target="_blank">
+  <a href="www.linkedin.com/in/jose-alisson-326205273" target="www.linkedin.com/in/jose-alisson-326205273">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="o_jjaliss_o" target="_blank">
